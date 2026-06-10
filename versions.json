@@ -1,0 +1,13 @@
+{
+  "latest": "26.1",
+  "versions": [
+    {
+      "id": "26.1",
+      "name": "RubyDung 26.1",
+      "type": "release",
+      "released": "2026-06-10",
+      "url": "https://github.com/TodayIdk/rubydung-versions/releases/download/26.1/RubyDung.zip",
+      "description": "First release"
+    }
+  ]
+}
